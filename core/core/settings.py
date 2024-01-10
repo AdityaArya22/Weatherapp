@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-WEATHER_API_KEY = '2e04e28585cdc1281a56cff4ca3f7304'
+WEATHER_API_KEY = ''
 # Application definition
 
 INSTALLED_APPS = [
